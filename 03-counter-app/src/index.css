@@ -1,0 +1,13 @@
+html, body {
+  background-color: rgb(49, 53, 43);
+  color: rgb(218, 196, 156);
+  font-family: Cambria, Cochin, Georgia, Times, serif;
+  font-size: 1.3rem;
+  padding: 40px;
+}
+
+button {
+  font-size: 1.3rem;
+  margin-right: 0.5rem;
+  padding: 0.5rem;
+}
